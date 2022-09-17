@@ -1,0 +1,1 @@
+An MVC project that removes background of an image
